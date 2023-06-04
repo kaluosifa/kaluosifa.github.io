@@ -1,0 +1,6 @@
+canonifyurls = true
+baseURL = 'https://www.kaluosifa.com'
+languageCode = 'zh-cn'
+title = "Kaluosifa's Blog"
+
+theme = "PaperMod"
