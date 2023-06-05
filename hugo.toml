@@ -33,7 +33,7 @@ ShowRssButtonInSectionTermList = true
 ShowToc = true
 
   [params.homeInfoParams]
-  Title = "Hi there wave"
+  Title = "Hi there 👋"
   Content = "欢迎来到卡洛斯法的博客"
 
   [[params.socialIcons]]
