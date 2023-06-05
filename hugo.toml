@@ -2,5 +2,53 @@ canonifyurls = true
 baseURL = 'https://www.kaluosifa.com'
 languageCode = 'zh-cn'
 title = "Kaluosifa's Blog"
-
+paginate = 5
 theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+author = "Theme PaperMod"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowToc = true
+
+  [params.homeInfoParams]
+  Title = "Hi there wave"
+  Content = "欢迎来到卡洛斯法的博客"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://www.github.com/kaluosifa/"
+
+  [[params.socialIcons]]
+  name = "Rss"
+  url = "index.xml"
+
+  [params.assets]
+  disableHLJS = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
