@@ -1,5 +1,5 @@
 canonifyurls = true
-baseURL = 'https://www.kaluosifa.com'
+baseURL = 'https://kaluosifa.github.io'
 languageCode = 'zh-cn'
 title = "Kaluosifa's Blog"
 paginate = 5
