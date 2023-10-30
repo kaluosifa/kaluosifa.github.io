@@ -2,7 +2,7 @@
 title: "编码"
 date: 2023-10-29T13:01:47+08:00
 draft: false
-categories: []
+categories: ["计算机"]
 tags: ["二进制", "八进制", "十六进制", "进制转换", "原码", "反码", "补码"]
 aliases: ["encoding"]
 ---

@@ -2,7 +2,7 @@
 title: "指令集"
 date: 2023-10-30T15:36:11+08:00
 draft: false
-categories: []
+categories: ["计算机"]
 tags: ["RISC", "精简指令集", "CISC", "复杂指令集", "x86", "x64", "ARM", "微架构",
 "指令集", "RISC-V", "amd64"]
 aliases: ["isa"]
