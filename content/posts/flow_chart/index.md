@@ -32,6 +32,7 @@ aliases: ["flow_chart"]
 ### 常用符号
 
 ![image](assets/2.jpg)
+<img src=assets/2.jpg width=60%>
 
 ### 基本符号
 
@@ -97,3 +98,7 @@ aliases: ["flow_chart"]
 - 多个主体的流程图（泳道图）
 
   ![image](assets/10.jpg)
+
+- 注释的使用
+
+  ![image](assets/12.png)
