@@ -5,6 +5,7 @@ draft: false
 categories: ["工具"]
 tags: ["VSCode", "Keil"]
 aliases: [write_Keil_project_code_using_VSCode]
+summary: "利用VSCode的Keil Assistant插件来编写Keil项目代码。"
 ---
 
 # 安装软件和插件
